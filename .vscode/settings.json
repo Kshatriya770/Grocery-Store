@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "C:\\Users\\Kshatriya\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+  "python.pythonPath": "venv\\Scripts\\python.exe",
   "editor.formatOnSave": true,
   "python.linting.pycodestyleEnabled": true,
   "python.linting.pylintPath": "pylint",
