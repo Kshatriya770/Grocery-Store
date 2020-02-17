@@ -29,8 +29,7 @@ class CheckoutForm(forms.Form):
     billing_zip = forms.CharField(required=False)
 
     same_billing_address = forms.BooleanField(required=False)
-    set_default_shipping = forms.BooleanField(required=False)
-    use_default_shipping = forms.BooleanField(required=False)
+    
     set_default_billing = forms.BooleanField(required=False)
     use_default_billing = forms.BooleanField(required=False)
 
