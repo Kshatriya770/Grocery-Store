@@ -20,9 +20,7 @@ Always run the python script with the interpreter as venv
 to do so :
 
 ## Clone this project and run with Visual Studio Code
-                        or
-if you are using Command Prompt or Powershell then change your dir to x:\....\....\Grocery Store
-and run this 
+
 
 "d:/My Project/Grocery Store/venv/Scripts/activate.bat"
 
