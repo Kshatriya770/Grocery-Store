@@ -1,6 +1,6 @@
 # Grocery-Store
  
-####Instructions:
+##Instructions:
 
 Firstly Make sure that pip is installed along with Python 3.7.6 or later
 
@@ -19,7 +19,7 @@ Always run the python script with the interpreter as venv
 
 to do so :
 
-Clone this project and run with Visual Studio Code
+##Clone this project and run with Visual Studio Code
                         or
 if you are using Command Prompt or Powershell then change your dir to x:\....\....\Grocery Store
 and run this 
@@ -29,7 +29,7 @@ and run this
 after this your interpreter will change to venv...
 
 
-Make sure that Python 3.7.6 or + is installed on your system
+##Make sure that Python 3.7.6 or + is installed on your system
 
 After that 
 
