@@ -1,12 +1,17 @@
 {
-  "python.pythonPath": "C:\\Users\\Saurabh\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+  "python.pythonPath": "/usr/bin/python3",
   "editor.formatOnSave": true,
   "python.linting.pycodestyleEnabled": true,
   "python.linting.pylintPath": "pylint",
-  "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django"
+  ],
   "python.linting.pylintEnabled": true,
   "python.venvPath": "${workspaceFolder}/env/bin/python3",
-  "python.linting.pycodestyleArgs": ["--ignore=E501"],
+  "python.linting.pycodestyleArgs": [
+    "--ignore=E501"
+  ],
   "files.exclude": {
     "**/*.pyc": true
   },

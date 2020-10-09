@@ -51,7 +51,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -87,6 +87,8 @@
       <workItem from="1570293640342" duration="262000" />
       <workItem from="1570297354764" duration="1997000" />
       <workItem from="1570542233116" duration="1487000" />
+      <workItem from="1582741759888" duration="694000" />
+      <workItem from="1582776226721" duration="352000" />
     </task>
     <servers />
   </component>
@@ -98,14 +100,14 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="254" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864@62.0.1474.864" timestamp="1578458513482" />
-    <state x="308" y="75" key="SettingsEditor" timestamp="1578458841230">
+    <state x="308" y="75" key="SettingsEditor" timestamp="1582776239862">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="308" y="75" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1578458841230" />
-    <state x="496" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1580058605842">
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1582776239862" />
+    <state x="496" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1582776228356">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="496" y="257" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1580058605842" />
+    <state x="496" y="257" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1582776228356" />
     <state x="462" y="181" key="search.everywhere.popup" timestamp="1578458558579">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
