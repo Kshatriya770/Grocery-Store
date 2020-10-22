@@ -58,3 +58,32 @@
 
 # Screenshots 🌈
 
+<p align="center"> 
+    <a href="https://kshatriya770.github.io" target="_blank">
+    <img src="images/productpage.png"/>
+  </a>
+</p>
+
+<p align="center"> 
+    <a href="https://kshatriya770.github.io" target="_blank">
+    <img src="images/signup.png"/>
+  </a>
+</p>
+
+<p align="center"> 
+    <a href="https://kshatriya770.github.io" target="_blank">
+    <img src="images/signin.png"/>
+  </a>
+</p>
+
+<p align="center"> 
+    <a href="https://kshatriya770.github.io" target="_blank">
+    <img src="images/address.png"/>
+  </a>
+</p>
+
+<p align="center"> 
+    <a href="https://kshatriya770.github.io" target="_blank">
+    <img src="images/payment.png"/>
+  </a>
+</p>
