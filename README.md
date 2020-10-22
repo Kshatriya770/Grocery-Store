@@ -31,15 +31,15 @@
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
   - ```python
-        pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 - Some of the required dependencies will be downloaded to your system.
 - Now, the project is ready to use.
 - You can check it using `python manage.py runserver`, it will open the website locally on your browser.(create issue or let me know if anything happens with the SECRET KEY).
 - To manage the Database you need to create a admin.
 - To do so go to terminal in the directory and execute this command:
-    - ```python
-    python manage.py createsuperuser
+  - ```python
+     python manage.py createsuperuser
     ```
 -  You need to fill the `Username`, `Email` and `Password`
     - superuser created successfully
