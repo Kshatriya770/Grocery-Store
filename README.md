@@ -31,7 +31,7 @@
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
   - ```python
-    pip install -r requirements.txt
+        pip install -r requirements.txt
     ```
 - Some of the required dependencies will be downloaded to your system.
 - Now, the project is ready to use.
