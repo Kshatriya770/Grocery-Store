@@ -3,7 +3,7 @@
 
 <p align="center"> 
     <a href="https://kshatriya770.github.io" target="_blank">
-    <img src="images/frontimage.png"></img>
+    <img src="images/frontimage.png"/>
   </a>
 </p>
 
