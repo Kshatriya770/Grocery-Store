@@ -2,7 +2,7 @@
 <h3 align="center"> A clean, beautiful, responsive and 100% customizable E-Commerce Store made on Python/Django </h3>
 <br>
 <p align="center"> 
-    <a href="https://kshatriya770.github.io" target="_blank">
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/frontimage.png" target="_blank">
     <img src="images/frontimage.png"/>
   </a>
 </p>
@@ -59,31 +59,37 @@
 # Screenshots 🌈
 
 <p align="center"> 
-    <a href="https://kshatriya770.github.io" target="_blank">
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/productpage.png" target="_blank">
     <img src="images/productpage.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://kshatriya770.github.io" target="_blank">
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/signin.png" target="_blank">
     <img src="images/signup.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://kshatriya770.github.io" target="_blank">
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/signup.png" target="_blank">
     <img src="images/signin.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://kshatriya770.github.io" target="_blank">
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/cart.png" target="_blank">
+    <img src="images/cart.png"/>
+  </a>
+</p>
+
+<p align="center"> 
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/address.png" target="_blank">
     <img src="images/address.png"/>
   </a>
 </p>
 
 <p align="center"> 
-    <a href="https://kshatriya770.github.io" target="_blank">
+    <a href="https://github.com/Kshatriya770/Grocery-Store/blob/master/images/payment.png" target="_blank">
     <img src="images/payment.png"/>
   </a>
 </p>
