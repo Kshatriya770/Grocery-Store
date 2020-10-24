@@ -53,7 +53,7 @@
 - [Python](https://python.org/)
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
-- [SCSS]
+- SCSS
 - [JavaScript](https://www.javascript.com/)
 
 # Screenshots 🌈
