@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "/usr/bin/python3",
+  "python.pythonPath": "C:\\Users\\Saurabh\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
   "editor.formatOnSave": true,
   "python.linting.pycodestyleEnabled": true,
   "python.linting.pylintPath": "pylint",
