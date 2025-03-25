@@ -1,7 +1,8 @@
 from .base import *
 
-DEBUG = True
-ALLOWED_HOSTS = ['127.0.0.1']
+DEBUG = False
+ALLOWED_HOSTS = ['grocery-store-six-pi.vercel.app']
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 INSTALLED_APPS += [
     'debug_toolbar'
